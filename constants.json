@@ -1,0 +1,8 @@
+{
+    "TRUCKMIN": 1,
+    "TRUCKMAX": 1,
+    "BIKEMIN": 2,
+    "BIKEMAX" : 3,
+    "CARMIN" : 4,
+    "CARMAX" : "N"
+}
